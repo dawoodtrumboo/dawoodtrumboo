@@ -9,7 +9,7 @@
   - [Gaming Portfolio Landing Page](https://github.com/dawoodtrumboo/Gaming_Portfolio)
   - [eCommerce Website Landing Page](https://github.com/dawoodtrumboo/eCommerce-Websapp)
 - <b>College Project</b>
-  - [Online Drug Delivery System](https://github.com/dawoodtrumboo/Online-Medical-Store
+  - [Online Drug Delivery System](https://github.com/dawoodtrumboo/Online-Medical-Store)
 
 <!--
 **dawoodtrumboo/dawoodtrumboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,8 +12,8 @@
   - [Online Drug Delivery System](https://github.com/dawoodtrumboo/Online-Medical-Store)
  
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="DawoodTrumboo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-- [LinkedIn](https://www.linkedin.com/in/dawoodtrumboo/)
+  <img align="left" alt="DawoodTrumboo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    [LinkedIn](https://www.linkedin.com/in/dawoodtrumboo/)
 <!--
 **dawoodtrumboo/dawoodtrumboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

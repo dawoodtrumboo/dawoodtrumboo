@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Coding Ninjas)</b>
-  - [Praciting DS & Algos in Java](https://github.com/dawoodtrumboo/Java-Development-Codes)
+  - [Practicing DS & Algos in Java](https://github.com/dawoodtrumboo/Java-Development-Codes)
 - <b>Practice Web Apps  (HTML, CSS, JavaScript)</b>
   - [Test Resume Website](https://github.com/dawoodtrumboo/Resume-v1)
   - [Gaming Portfolio Landing Page](https://github.com/dawoodtrumboo/Gaming_Portfolio)

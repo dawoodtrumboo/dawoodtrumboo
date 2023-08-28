@@ -10,7 +10,7 @@
   - [eCommerce Website Landing Page](https://github.com/dawoodtrumboo/eCommerce-Websapp)
 - <b>College Project</b>
   - [Online Drug Delivery System](https://github.com/dawoodtrumboo/Online-Medical-Store)
-  - [CrowdFundingPlatform on Blockchain (Ongoing)](https://github.com/dawoodtrumboo/CrowdFundingPlatformOnBlockchain)
+  - [CrowdFundingPlatform on Blockchain](https://github.com/dawoodtrumboo/CrowdFundingPlatformOnBlockchain)
  
 <!--
 **dawoodtrumboo/dawoodtrumboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

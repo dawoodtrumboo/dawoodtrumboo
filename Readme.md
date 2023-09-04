@@ -1,5 +1,5 @@
 
-# 💫  Hi I am <>Dawood Trumboo</>:
+# 💫  Hi I am Dawood Trumboo:
 - A passionate Frontend Developer<br>.
 -🔭 I’m currently working with React, Tailwind, and NodeJS.<br>- 🚀 I’m currently looking for a Job with a role of Frontend Developer.<br>- 👯 I’m looking to collaborate with people with Amazing Ideas.<br>- 🌱 I’m currently learning MERN Stack & building Projects in public.<br>
 

@@ -1,7 +1,7 @@
 
 # 💫  Hi I am Dawood Trumboo:
-- A passionate Frontend Developer<br>.
--🔭 I’m currently working with React, Tailwind, and NodeJS.<br>- 🚀 I’m currently looking for a Job with a role of Frontend Developer.<br>- 👯 I’m currently collaborating with people to buid amazing products.<br>- 🌱 I’m also learning MERN Stack & building Projects in public.<br>
+- A passionate Software Engineer<br>.
+-🔭 I’m currently working with ReactJs, ExpressJs, PostgreSQL and NodeJs.<br>- 🚀 I’m currently looking for a Job with a role of Frontend Developer.<br>- 👯 I’m currently collaborating with people to buid amazing products.<br>- 🌱 I’m also learning MERN Stack & building Projects in public.<br>
 
 
 ## 🌐 Connect with Me:

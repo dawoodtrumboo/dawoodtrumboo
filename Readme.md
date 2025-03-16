@@ -1,7 +1,7 @@
 
 # 💫  Hi I am Dawood Trumboo:
 - A passionate Software Engineer<br>.
--🔭 I’m currently working with ReactJs, NextJs, NodeJs, NestJs, and PostgreSQL  .<br>- 👯 I’m currently collaborating with people to build amazing products.
+-🔭 I’m currently working with ReactJs, NextJs, NodeJs, NestJs, and PostgreSQL  .<br>- 👯 I’m currently collaborating with people to build SaaS Products.
 
 
 ## 🌐 Connect with Me:
